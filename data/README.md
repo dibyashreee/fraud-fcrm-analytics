@@ -1,1 +1,1 @@
-This folder contains the flagged High and Medium risk transaction exports referenced in the main project README. The full 308,213-row dataset is not included due to size - it's derived from PaySim (Kaggle) via the enrichment pipeline in /sql/fraud_detection_queries.sql. 
+This folder contains the flagged High and Medium risk transaction exports referenced in the main project README. The full 308,213-row dataset is not included due to size - it's derived from PaySim (Kaggle) via the enrichment pipeline in '/sql/fraud_detection_queries.sql'. 
